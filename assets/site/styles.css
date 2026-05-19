@@ -702,3 +702,8 @@ h3 {
     padding: 54px 0;
   }
 }
+
+
+.lang-switch{display:inline-flex;gap:6px;margin-left:8px;}
+.lang-switch a{text-decoration:none;font-weight:700;color:var(--forest);padding:6px 8px;border-radius:8px;}
+.lang-switch a.active{background:rgba(36,98,76,.12);}
