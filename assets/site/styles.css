@@ -702,3 +702,17 @@ h3 {
     padding: 54px 0;
   }
 }
+
+.lang-switch {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.lang-switch a {
+  padding: 8px 12px;
+  text-decoration: none;
+  font-weight: 700;
+  color: var(--forest);
+}
+.lang-switch a.active { background: rgba(36,98,76,.12); }
