@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://apptordoki.ru/</loc>
-    <lastmod>2026-05-16</lastmod>
-  </url>
-  <url>
-    <loc>https://apptordoki.ru/privacy/</loc>
-    <lastmod>2026-05-16</lastmod>
-  </url>
-  <url>
-    <loc>https://apptordoki.ru/delete-account/</loc>
-    <lastmod>2026-05-16</lastmod>
-  </url>
-  <url>
-    <loc>https://apptordoki.ru/terms/</loc>
-    <lastmod>2026-05-16</lastmod>
-  </url>
+  <url><loc>https://russianrivers.ru/tordoki/</loc><lastmod>2026-05-19</lastmod></url>
+  <url><loc>https://russianrivers.ru/tordoki/privacy/</loc><lastmod>2026-05-19</lastmod></url>
+  <url><loc>https://russianrivers.ru/tordoki/delete-account/</loc><lastmod>2026-05-19</lastmod></url>
+  <url><loc>https://russianrivers.ru/tordoki/terms/</loc><lastmod>2026-05-19</lastmod></url>
+  <url><loc>https://russianrivers.ru/tordoki/en/</loc><lastmod>2026-05-19</lastmod></url>
+  <url><loc>https://russianrivers.ru/tordoki/en/privacy/</loc><lastmod>2026-05-19</lastmod></url>
+  <url><loc>https://russianrivers.ru/tordoki/en/delete-account/</loc><lastmod>2026-05-19</lastmod></url>
+  <url><loc>https://russianrivers.ru/tordoki/en/terms/</loc><lastmod>2026-05-19</lastmod></url>
 </urlset>
